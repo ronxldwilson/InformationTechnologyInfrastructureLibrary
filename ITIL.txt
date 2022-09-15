@@ -1,6 +1,12 @@
 Information Technology Infrastructure Library
 
+ITIL : The Information Technology Infrastructure Library (ITIL) is a set of detailed practices 
+for IT activities such as IT service management and IT asset management that focus on aligning 
+IT services with the needs of business.     
+
+
 What is Information Technology Service Management?
-
-
+Information technology service management (ITSM) is the activities that are performed by an 
+organization to design, build, deliver, operate and control information technology (IT) 
+services offered to customers.
 
